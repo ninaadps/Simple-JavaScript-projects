@@ -1,1 +1,1 @@
-# Simple-Java-projects
+Collection of simple javaScript projects
